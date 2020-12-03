@@ -104,6 +104,10 @@ newyear
 
 new year
 
+octoberfest
+
+oktoberfest
+
 pedicure
 
 plumber
@@ -117,6 +121,7 @@ running
 ski
 
 skiing
+
 skis
 
 supper
