@@ -404,6 +404,10 @@ soccer
 
 string quartett
 
+super bowl
+
+superbowl
+
 supper
 
 swim
