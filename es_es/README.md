@@ -90,6 +90,7 @@
     - [Masaje](#masaje)
     - [Bricolaje](#bricolaje)
     - [Estudio](#estudio)
+    - [Pago](#pago)
   - [Otros](#otros)
     - [Planmyday](#planmyday)
 
@@ -528,6 +529,10 @@
 
 - estudio
 - estudiar
+
+#### Pago
+
+- pago
 
 ### Otros
 
