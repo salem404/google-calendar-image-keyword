@@ -118,6 +118,10 @@ comida familiar
 
 competición de cricket
 
+compra
+
+compras
+
 conjunto musical
 
 contrabajo

@@ -1,7 +1,6 @@
 
 <h1 align="center">Google calendar keywords español</h1>
 
----
 
 ## Tabla de Contenidos
 
@@ -86,13 +85,13 @@
   - [Tareas](#tareas)
     - [Limpieza](#limpieza)
     - [Cocinar](#cocinar)
+    - [Comprar](#comprar)
     - [Masaje](#masaje)
     - [Bricolaje](#bricolaje)
     - [Estudio](#estudio)
   - [Otros](#otros)
     - [Planmyday](#planmyday)
 
----
 
 ## Categorías
 
@@ -502,6 +501,11 @@
   - la comida
   - el almuerzo
   - la cena
+
+#### Comprar
+
+- compra
+- compras
 
 #### Masaje
 
