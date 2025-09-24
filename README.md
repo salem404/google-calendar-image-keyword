@@ -14,10 +14,10 @@ The keywords are grouped by language. Each language has its own folder, and with
 
 This repository currently contains the following languages:
 
-* [en_us/keywords.md](en_us/keywords.md) - US English
-* [es_es/keywords.md](es_es/keywords.md) - Spanish (Spain)
-* [fr_fr/keywords.md](fr_fr/keywords.md) - French
-* [ru_ru/keywords.md](ru_ru/keywords.md) - Russian
+- [en_us/keywords.md](en_us/keywords.md) - US English
+- [es_es/keywords.md](es_es/keywords.md) - Spanish (Spain)
+- [fr_fr/keywords.md](fr_fr/keywords.md) - French
+- [ru_ru/keywords.md](ru_ru/keywords.md) - Russian
 
 ## Flairs
 
@@ -29,7 +29,7 @@ The images are identified by an ID. The full list of IDs can be found in the [fl
 
 For example
 
-https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_learninstrument.svg
+<https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_learninstrument.svg>
 
 ### 2024_v1
 
@@ -37,7 +37,7 @@ https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_learninst
 
 For example
 
-https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v1/img_learninstrument.svg
+<https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v1/img_learninstrument.svg>
 
 ### Old
 
@@ -45,7 +45,7 @@ https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v1/img_learninst
 
 For example
 
-https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_learninstrument.jpg
+<https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_learninstrument.jpg>
 
 ### Old smaller
 
@@ -53,7 +53,7 @@ https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_learni
 
 For example
 
-https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_learninstrument_1x.jpg
+<https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_learninstrument_1x.jpg>
 
 ## Contributing
 
@@ -67,5 +67,5 @@ If you do not know how to create a pull request to edit the list, please create 
 
 ## Useful links
 
-* [How to add pictures to your Google (with images)](https://momof3plus2.blogspot.com/2017/10/how-to-add-pictures-to-your-google.html)
-* [Google Calendary event images (list with categories/image id's)](http://www.internetbestsecrets.com/2019/09/google-calendar-event-images.html)
+- [How to add pictures to your Google (with images)](https://momof3plus2.blogspot.com/2017/10/how-to-add-pictures-to-your-google.html)
+- [Google Calendary event images (list with categories/image id's)](http://www.internetbestsecrets.com/2019/09/google-calendar-event-images.html)
