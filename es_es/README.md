@@ -13,6 +13,7 @@
     - [Cena](#cena)
     - [Bebidas alcohólicas](#bebidas-alcohólicas)
   - [Evento](#evento)
+    - [Entrevista](#entrevista)
     - [Baby shower](#baby-shower)
     - [Cumpleaños](#cumpleaños)
     - [Año nuevo](#año-nuevo)
@@ -129,6 +130,11 @@
 - cócteles
 
 ### Evento
+
+#### Entrevista
+
+- entrevista
+- entrevistas
 
 #### Baby shower
 
