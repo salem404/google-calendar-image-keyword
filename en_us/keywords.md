@@ -1,22 +1,16 @@
 See [Top-level README.md](../README.md) for description of what this list means.
 
-(insert one of many languages) class
-
-(insert one of many languages) course
-
 AGDQ
 
 Aikido
 
-all hallows' eve
+all hallows eve
 
-all saints' eve
+all saints eve
 
 allhalloween
 
 american football
-
-archery
 
 art workshop
 
@@ -24,19 +18,11 @@ art workshops
 
 artistic gymnastics
 
-auto maintenance
-
-auto mechanic
-
-auto repair
-
 baby shower
 
 babyshower
 
 bachelorette party
-
-back 2 school
 
 back rub
 
@@ -49,8 +35,6 @@ backrub
 backtoschool
 
 badminton
-
-ballet
 
 barbecue
 
@@ -76,8 +60,6 @@ bikes
 
 biking
 
-billiard
-
 birthday
 
 bmx
@@ -90,17 +72,11 @@ boardgame
 
 boardgames
 
-boat cruise
-
 book club
 
 bouldering
 
 bowling
-
-boxing
-
-Boxing Day
 
 breakfast
 
@@ -109,6 +85,10 @@ breakfasts
 brunch
 
 brunches
+
+bus
+
+bus ride
 
 camping
 
@@ -119,14 +99,6 @@ candlelight dinner
 canoe
 
 canoeing
-
-car maintenance
-
-car mechanic
-
-car repair
-
-car service
 
 cello
 
@@ -184,17 +156,9 @@ cocktail
 
 cocktails
 
-codecademy
-
-coding time
-
 coffee
 
 coffees
-
-competitive shooting
-
-computer science
 
 concert
 
@@ -218,8 +182,6 @@ cricket game
 
 cricket match
 
-crochet
-
 crossfit
 
 cycling
@@ -229,10 +191,6 @@ dance
 dances
 
 dancing
-
-date night
-
-datenight
 
 dental
 
@@ -244,11 +202,11 @@ dinner
 
 dinners
 
-discus
-
 diving
 
 diy
+
+doctor
 
 dog sitting
 
@@ -260,8 +218,6 @@ dogsitting
 
 drawing workshop
 
-dressage
-
 drinks
 
 dyke march
@@ -270,29 +226,17 @@ ebook
 
 electrician
 
-embroidery
-
 english class
 
 english course
-
-equestrian
 
 euro pride
 
 europride
 
-eventing
-
-family meal
-
 Fat Tuesday
 
 father christmas
-
-felting
-
-fencing
 
 field hockey
 
@@ -311,6 +255,8 @@ fitness program
 fitness test
 
 fitness training
+
+flight
 
 flute
 
@@ -354,8 +300,6 @@ guitar lesson
 
 gym
 
-hackathon
-
 hair
 
 haircut
@@ -366,12 +310,6 @@ halloween
 
 halloween dance
 
-hammer throw
-
-handball
-
-handicraft
-
 handyman
 
 Head of the Charles
@@ -379,10 +317,6 @@ Head of the Charles
 Head of the River Race
 
 helloween
-
-hen do
-
-hen night
 
 Hijri New Year
 
@@ -392,15 +326,7 @@ hikes
 
 hiking
 
-horse riding
-
-horseriding
-
-hour of code
-
 Islamic New Year
-
-javelin
 
 jiu jitsu
 
@@ -422,10 +348,6 @@ karate
 
 kayaking
 
-knitting
-
-ladies night
-
 learn to code
 
 lesbian march
@@ -444,10 +366,6 @@ make dinner
 
 make lunch
 
-manicure
-
-manicures
-
 mardi gras
 
 mardigras
@@ -461,8 +379,6 @@ massages
 maternity
 
 May Bumps
-
-millinery
 
 Mountain Bike
 
@@ -486,35 +402,21 @@ new year's
 
 new years
 
-newspaper
-
 Nowruz
 
 oboe
-
-october fest
-
-octoberfest
-
-oil change
-
-oktoberfest
-
-opera
 
 orchestra
 
 painting
 
+parcel
+
+parcel pick-up
+
 Parsi New Year
 
-patchwork
-
 payment
-
-pedicure
-
-pedicures
 
 Persian New Year
 
@@ -536,7 +438,7 @@ plan week
 
 plumber
 
-practice (insert one of many languages)
+pool
 
 practice english
 
@@ -550,21 +452,11 @@ prepare lunch
 
 prepare meal
 
-programming in java
-
-programming in python
-
-quilting
-
-quinceanera
-
-rails girls
-
-railsgirls
-
 reach out to
 
 reading
+
+reading club
 
 relaxing
 
@@ -576,6 +468,8 @@ resting
 
 rhythmic gymnastics
 
+rock climbing
+
 romantic dinner
 
 rowing
@@ -584,29 +478,11 @@ rugby
 
 running
 
-sail
-
-sailboat
-
-sailing
-
-santa claus
-
 saxophone
-
-send invitations
-
-sewing
 
 SGDQ
 
-shooting competition
-
-shooting sport
-
-shooting sports
-
-shot put
+shopping
 
 Shrove Tuesday
 
@@ -624,25 +500,11 @@ sleep
 
 sleeping
 
-snow boarding
-
-snow shoe
-
-snowboarding
-
-snowshoeing
-
 soccer
 
 sprinting
 
 St Patricks
-
-stag and doe
-
-stag do
-
-stag night
 
 stag party
 
@@ -674,19 +536,17 @@ tennis
 
 thanksgiving
 
-theater
-
-theatre
-
 tidy up
-
-tire change
-
-tire replacement
 
 track and field
 
+travel
+
+travelling
+
 triathlon
+
+trip
 
 trombone
 
@@ -718,9 +578,7 @@ videogaming
 
 vietnamese new year
 
-violin
-
-violins
+visiting cinema
 
 volleyball
 
@@ -730,13 +588,7 @@ walk the dog
 
 walking
 
-water polo
-
-waterpolo
-
-web development
-
-web programming
+watching a movie
 
 wedding
 
@@ -752,10 +604,6 @@ weight lifting
 
 weightlifting
 
-wine bar
-
-wine night
-
 workout
 
 workouts
@@ -764,9 +612,15 @@ world pride
 
 worldpride
 
-wrestling
+write
+
+write code
 
 write letter
+
+writing
+
+writing graffiti
 
 x-mas
 
